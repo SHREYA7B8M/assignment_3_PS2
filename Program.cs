@@ -23,7 +23,7 @@ namespace assignment_3_PS2
                 Console.WriteLine("Invalid input. Please enter a valid number.");
             }
 
-            Console.WriteLine("Enter a date (MM/dd/yyyy): ");
+            Console.WriteLine("Enter a date (DD/MM/yyyy): ");
             string dateInput = Console.ReadLine();
             try
             {
